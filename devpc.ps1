@@ -1,7 +1,4 @@
-﻿
-param (
-    $UserName  
-)
+$UserName = $args[0]
 
 Enable-WindowsOptionalFeature -Online -NoRestart -FeatureName Microsoft-Windows-Subsystem-Linux
 Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform -NoRestart
