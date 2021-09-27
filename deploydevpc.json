@@ -226,7 +226,7 @@
                     "fileUris": [
                         "https://khdworkshop.blob.core.windows.net/sept-2021/devpc.ps1"
 					],					
-                    "commandToExecute": "powershell.exe -File  \"./devpc.ps1\""
+                    "commandToExecute": "[concat('powershell -ExecutionPolicy Unrestricted -file ', parameters('adminUsername'))]"
                 },
                 "protectedSettings": {}
             }
