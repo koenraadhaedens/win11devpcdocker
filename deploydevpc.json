@@ -175,8 +175,8 @@
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "MicrosoftWindowsDesktop",
-                        "offer": "windows11",
-                        "sku": "win11-pro",
+                        "offer": "windows-11",
+                        "sku": "win11-22h2-pro",
                         "version": "latest"
                     },
                     "osDisk": {
