@@ -223,9 +223,9 @@
                 "typeHandlerVersion": "2.77",
                 "settings": {
                     "configuration": {
-                        "url": "https://sakhdavd.blob.core.windows.net/devpc/installdocker.ps1",
-                        "script": "installDocker.ps1",
-                        "function": "InstallDocker"
+                        "url": "https://sakhdavd.blob.core.windows.net/devpc/InstallDocker.zip",
+                        "script": "DockerDesktopInstall.ps1",
+                        "function": "DockerDesktopInstall"
                     }
                 },
                 "protectedSettings": {}
