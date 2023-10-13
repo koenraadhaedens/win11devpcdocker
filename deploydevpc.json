@@ -220,7 +220,7 @@
             "properties": {
                 "publisher": "Microsoft.Powershell",
                 "type": "DSC",
-                "typeHandlerVersion": "2.76",
+                "typeHandlerVersion": "2.77",
                 "settings": {
                     "configuration": {
                         "url": "https://sakhdavd.blob.core.windows.net/devpc/installdocker.ps1",
