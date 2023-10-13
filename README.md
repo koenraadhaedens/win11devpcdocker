@@ -1,5 +1,5 @@
-# win10devpcdocker
-Azure Dev Windows 10 pc with docker desktop, helm, git, vscode and az cli installed automatically
+# win11devpcdocker
+Azure Dev Windows 11 pro pc with  python, docker desktop, helm, git, vscode and az cli installed automatically
 
 Please wait until CustomScriptExtention is finished (about 35min) to login to pc. After first login a script will start installing some extra packages. Please wait until pc reboots.
 
