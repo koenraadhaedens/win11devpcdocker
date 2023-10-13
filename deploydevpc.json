@@ -227,6 +227,7 @@
                         "url": "https://sakhdavd.blob.core.windows.net/devpc/installdocker.ps1",
                         "script": "InstallDocker.ps1",
 			"function": "InstallDocker"
+			}
                 },
                 "protectedSettings": {}
             }
