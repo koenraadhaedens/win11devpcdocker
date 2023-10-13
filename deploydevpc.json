@@ -175,8 +175,8 @@
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "MicrosoftWindowsDesktop",
-                        "offer": "Windows-10",
-                        "sku": "20h2-pron-g2",
+                        "offer": "windows11",
+                        "sku": "win11-pro",
                         "version": "latest"
                     },
                     "osDisk": {
