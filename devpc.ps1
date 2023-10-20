@@ -1,4 +1,4 @@
-$UserName = $args[0]
+$UserName = "hacker1"
 
 Enable-WindowsOptionalFeature -Online -NoRestart -FeatureName Microsoft-Windows-Subsystem-Linux
 Enable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform -NoRestart
