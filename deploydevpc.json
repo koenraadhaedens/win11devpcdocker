@@ -13,7 +13,7 @@
             "minLength": 12,
             "type": "SecureString",
             "metadata": {
-                "description": "Password for the Virtual Machine. Username will be hacker1"
+                "description": "Password for the Virtual Machine. Username will be hacker"
             }
         },
         "location": {
@@ -152,7 +152,7 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('vmName')]",
-                    "adminUsername": "hacker1",
+                    "adminUsername": "hacker",
                     "adminPassword": "[parameters('adminPassword')]",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
