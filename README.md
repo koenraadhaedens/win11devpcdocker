@@ -5,7 +5,7 @@ Please wait until CustomScriptExtention is finished (about 40min) to login to pc
 
 After the reboot you can add kuberetes, github-codespace and docker plugin in vscode.
 
-username will be hacker1
+username will be hacker
 
 
 
